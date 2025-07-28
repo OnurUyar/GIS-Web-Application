@@ -88,11 +88,3 @@ WebApplication1/
 ## 📄 License
 
 This project was developed for educational purposes and is **not intended for commercial use**.
-
----
-
-## 👤 Developer
-
-**Onur Uyar**  
-[CENG 300 - Summer Internship Project]  
-Summer 2025
