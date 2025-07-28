@@ -33,7 +33,7 @@ This project is a user-friendly, web-based **Geographic Information System (GIS)
 
 ---
 
-## 🔧 Getting Started
+## 🔧 Project Build
 
 ### 1. Back-End
 ```bash
