@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|c:\\users\\mxonu\\desktop\\projects\\2.staj (ceng300)\\src\\webapplication1\\gis-frontend\\src\\components\\navigationbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|solutionrelative:gis-frontend\\src\\components\\navigationbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|c:\\users\\mxonu\\desktop\\projects\\2.staj (ceng300)\\src\\webapplication1\\gis-frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|solutionrelative:gis-frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|c:\\users\\mxonu\\desktop\\projects\\2.staj (ceng300)\\src\\webapplication1\\gis-frontend\\src\\components\\mapcomponent.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|solutionrelative:gis-frontend\\src\\components\\mapcomponent.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|c:\\users\\mxonu\\desktop\\projects\\2.staj (ceng300)\\src\\webapplication1\\gis-frontend\\src\\components\\searchcomponent.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|solutionrelative:gis-frontend\\src\\components\\searchcomponent.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|c:\\users\\mxonu\\desktop\\projects\\2.staj (ceng300)\\src\\webapplication1\\gis-frontend\\src\\handlers\\linehandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|solutionrelative:gis-frontend\\src\\handlers\\linehandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|c:\\users\\mxonu\\desktop\\projects\\2.staj (ceng300)\\src\\webapplication1\\gis-frontend\\src\\handlers\\polygonhandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|solutionrelative:gis-frontend\\src\\handlers\\polygonhandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|c:\\users\\mxonu\\desktop\\projects\\2.staj (ceng300)\\src\\webapplication1\\gis-frontend\\src\\handlers\\pointhandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC962729-C72F-41DF-8C07-6F0C7020182D}|WebApplication1.csproj|solutionrelative:gis-frontend\\src\\handlers\\pointhandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "gis-frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\App.js",
+              "RelativeToolTip": "gis-frontend\\src\\App.js",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-23T17:00:26.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapComponent.js",
+              "DocumentMoniker": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\components\\MapComponent.js",
+              "RelativeDocumentMoniker": "gis-frontend\\src\\components\\MapComponent.js",
+              "ToolTip": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\components\\MapComponent.js",
+              "RelativeToolTip": "gis-frontend\\src\\components\\MapComponent.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-23T17:00:29.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavigationBar.js",
+              "DocumentMoniker": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\components\\NavigationBar.js",
+              "RelativeDocumentMoniker": "gis-frontend\\src\\components\\NavigationBar.js",
+              "ToolTip": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\components\\NavigationBar.js",
+              "RelativeToolTip": "gis-frontend\\src\\components\\NavigationBar.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAiwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-23T17:00:29.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchComponent.js",
+              "DocumentMoniker": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\components\\SearchComponent.js",
+              "RelativeDocumentMoniker": "gis-frontend\\src\\components\\SearchComponent.js",
+              "ToolTip": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\components\\SearchComponent.js",
+              "RelativeToolTip": "gis-frontend\\src\\components\\SearchComponent.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-26T11:40:20.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "polygonHandler.js",
+              "DocumentMoniker": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\handlers\\polygonHandler.js",
+              "RelativeDocumentMoniker": "gis-frontend\\src\\handlers\\polygonHandler.js",
+              "ToolTip": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\handlers\\polygonHandler.js",
+              "RelativeToolTip": "gis-frontend\\src\\handlers\\polygonHandler.js",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-23T17:00:39.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lineHandler.js",
+              "DocumentMoniker": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\handlers\\lineHandler.js",
+              "RelativeDocumentMoniker": "gis-frontend\\src\\handlers\\lineHandler.js",
+              "ToolTip": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\handlers\\lineHandler.js",
+              "RelativeToolTip": "gis-frontend\\src\\handlers\\lineHandler.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-23T17:00:38.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pointHandler.js",
+              "DocumentMoniker": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\handlers\\pointHandler.js",
+              "RelativeDocumentMoniker": "gis-frontend\\src\\handlers\\pointHandler.js",
+              "ToolTip": "C:\\Users\\mxonu\\Desktop\\Projects\\2.STAJ (CENG300)\\src\\WebApplication1\\gis-frontend\\src\\handlers\\pointHandler.js",
+              "RelativeToolTip": "gis-frontend\\src\\handlers\\pointHandler.js",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-23T17:00:37.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
