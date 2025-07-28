@@ -83,7 +83,7 @@ WebApplication1/
 ---
 
 ### 🗺️ Front-End Screenshot
-<img width="686" height="939" alt="Screenshot 2025-07-28 162806" src="https://github.com/user-attachments/assets/e582f4b3-7272-4a93-ba7b-ba9fac392dfb" />
+<img width="668" height="939" alt="appV3" src="https://github.com/user-attachments/assets/fa896bd0-8b62-47bb-afe0-601b1950eb9f" />
 
 ---
 
