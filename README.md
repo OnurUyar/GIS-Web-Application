@@ -30,6 +30,7 @@ This project is a user-friendly, web-based **Geographic Information System (GIS)
 - Leaflet (open-source JavaScript library for maps)
 - Axios (HTTP requests)
 
+
 ---
 
 ## 🔧 Getting Started
@@ -53,35 +54,36 @@ npm start
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 WebApplication1/
-├── Controllers/
-├── Services/
-├── Repositories/
-├── Interfaces/
-├── Models/
-├── Geometry/
-├── gis-frontend/         # React-based frontend
-├── Resources/            # Static response messages
-├── Program.cs
-└── appsettings.json
+├── bin/                  # Build output files (generated automatically)
+├── Controllers/          # API endpoints for Points, Lines, Polygons
+├── Data/                 # Database context and configuration
+├── Geometry/             # WKT parsing and geometric calculations (area, length, etc.)
+├── gis-frontend/         # React-based frontend map application (Leaflet.js)
+├── Interfaces/           # Service and repository interfaces for abstraction
+├── Migrations/           # Entity Framework Core migration files
+├── Models/               # Entity models representing domain objects (Point, Line, Polygon)
+├── Properties/           # .NET configuration files (launchSettings.json, etc.)
+├── Repositories/         # Data access logic (EF Core-based repositories)
+├── Resources/            # Static response messages, e.g., validation or error texts
+├── Services/             # Business logic and CRUD operations for each GIS entity
+├── Program.cs            # Entry point of the ASP.NET Core application
+└── appsettings.json      # Application configuration file (DB connection, logging, etc.)
 ```
 
 ---
 
 ## 📽️ Project Demo Video
 
-[🔗 Add video link here]
+[ https://www.youtube.com/watch?v=cDCCxh-Io7w ]
 
 ---
 
-## 🧪 Sample WKT Inputs
-
-- Point: `POINT(32.8597 39.9334)`
-- Line: `LINESTRING(29.0 41.0, 32.0 39.0)`
-- Polygon: `POLYGON((30 40, 35 45, 40 40, 30 40))`
+### 🗺️ Front-End Screenshot
+<img width="686" height="939" alt="Screenshot 2025-07-28 162806" src="https://github.com/user-attachments/assets/e582f4b3-7272-4a93-ba7b-ba9fac392dfb" />
 
 ---
 
